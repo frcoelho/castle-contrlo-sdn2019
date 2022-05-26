@@ -1,0 +1,9 @@
+Partlist exported from E:/Fish/FishMonitor/main.sch at 20/05/2019 15:03
+
+Qty Value         Device                Package        Parts                   Description    MF    MPN OC_FARNELL OC_NEWARK PROD_ID   VALUE
+1   22-05-7028-02 22-05-7028-02         7395-02        POWER                   CONNECTOR      MOLEX     9731601    unknown                  
+2   22-05-7038-03 22-05-7038-03         7395-03        1WIRE, FLOW             CONNECTOR      MOLEX     unknown    unknown                  
+4   22-05-7048-04 22-05-7048-04         7395-04        I2C_A, I2C_B, I2C_C, WL CONNECTOR      MOLEX     unknown    unknown                  
+1   22-05-7108-10 22-05-7108-10         7395-10        RELAY                   CONNECTOR      MOLEX     unknown    unknown                  
+1   4.7k          4.7KOHM-0603-1/10W-1% 0603           R1                      4.7kΩ resistor                                RES-07857 4.7k 
+1   ESP32DEVKITV1 ESP32DEVKITV1         ESP32-DEVKITV1 ESP32                                                                                

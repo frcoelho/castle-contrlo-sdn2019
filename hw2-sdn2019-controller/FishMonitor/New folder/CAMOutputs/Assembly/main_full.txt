@@ -1,0 +1,18 @@
+Partlist exported from E:/Fish/FishMonitor/main_full.sch at 20/05/2019 15:04
+
+Qty Value         Device                           Package                 Parts                                                                      Description                 MF    MPN OC_FARNELL OC_NEWARK PROD_ID   VALUE
+1                 FE06W                            FE06W                   I2C-PWM                                                                    FEMALE HEADER                         unknown    unknown                  
+1                 FE10W                            FE10W                   RELAY_BAR                                                                  FEMALE HEADER                         unknown    unknown                  
+1                 JACK-PLUG0                       SPC4077                 J13                                                                        DC POWER JACK                         unknown    unknown                  
+1                 PINHD-1X16/90                    1X16/90                 DRIVER_IN                                                                  PIN HEADER                                                                
+1   100uF         100UF-POLAR-RADIAL-2.5MM-25V-20% CPOL-RADIAL-2.5MM-6.5MM C2                                                                         100µF polarized capacitors                                 CAP-08439 100uF
+1   10uF          10UF-POLAR-RADIAL-2.5MM-25V-20%  CPOL-RADIAL-2.5MM-5MM   C1                                                                         10.0µF polarized capacitors                                CAP-08440 10uF 
+1   22-05-7028-02 22-05-7028-02                    7395-02                 FULL_SPECTRUM                                                              CONNECTOR                   MOLEX     9731601    unknown                  
+2   22-05-7038-03 22-05-7038-03                    7395-03                 1WIRE, FLOW                                                                CONNECTOR                   MOLEX     unknown    unknown                  
+8   22-05-7048-04 22-05-7048-04                    7395-04                 GROUP_1, GROUP_2, GROUP_3, GROUP_4, I2C_A, I2C_B, J11, WATER_LEVEL         CONNECTOR                   MOLEX     unknown    unknown                  
+17  4.7k          4.7KOHM-0603-1/10W-1%            0603                    R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17 4.7kΩ resistor                                             RES-07857 4.7k 
+1   786TV         786TV                            TO220V                  IC1                                                                        Positive VOLTAGE REGULATOR                                                
+16  BD139         BD139                            TO126AV                 Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15, Q16      NPN TRANSISTOR                                                            
+1   ESP32DEVKITV1 ESP32DEVKITV1                    ESP32-DEVKITV1          U$1                                                                                                                                                  
+1   J10MM         J10MM                            10                      J2                                                                         Bridge                                                                    
+2   J5MM          J5MM                             05                      J1, J3                                                                     Bridge                                                                    

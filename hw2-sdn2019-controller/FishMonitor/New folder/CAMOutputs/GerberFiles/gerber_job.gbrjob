@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-05-20T19:04:46Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "main_full"
+        },
+        "Owner": "eng frcoelho <eng.frcoelho@gmail.com>",
+        "Size": {
+            "X": 149.86,
+            "Y": 92.71
+        }
+    }
+}
